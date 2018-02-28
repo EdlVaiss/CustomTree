@@ -23,7 +23,7 @@ C:/pathToTest/test.zip.001
 C:/pathToTest/test.zip.004
 C:/pathToTest/test.zip.002
 
-
+/
 Требования:
 1. В методе main нужно создать ZipInputStream для архива, собранного из кусочков файлов. Файлы приходят аргументами в main,
 начиная со второго.
