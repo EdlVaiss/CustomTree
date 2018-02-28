@@ -18,7 +18,7 @@ import java.util.zip.ZipOutputStream;
 Второй аргумент - путь к zip-архиву.
 Добавить файл (fileName) внутрь архива в директорию 'new'.
 Если в архиве есть файл с таким именем, то заменить его.
-
+/
 Пример входных данных:
 C:/result.mp3
 C:/pathToTest/test.zip
